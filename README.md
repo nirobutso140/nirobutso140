@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Utso Roy
-#### Frontend Developer
 ![Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+I'm Utso Roy
+#### Frontend Developer
+
 
 I am a web developer. I have an understanding of javascript and react concepts, and basic idea of express, mongodb. I am interested in working with the MERN.
 
