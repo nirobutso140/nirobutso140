@@ -10,12 +10,12 @@ I am a web developer. I have an understanding of javascript and react concepts, 
 ### My last 3 Projects link: these projects are created by MERN:
 #### Newsportal-web-app: https://recreatenewsportal.web.app/
 
-###### In-Home Page there are 6 Technology Brands When Clicking any single brand the user is redirected to another page that has a brand-related product
+###### 1. In-Home Page there are 6 Technology Brands When Clicking any single brand the user is redirected to another page that has a brand-related product
 There are some specific brand product 
-##### Each product has an update, and details button. When clicking the details button user sees detailed information on the single product
-##### When the user clicks the update button user is redirected update page, The user can update this product using the form.
-##### On the details page, there is detailed information about a product and also have add to cart button, when clicking the add to cart button, the user can select the product in the cart page. Users can select multiple products.
-##### Users also delete the selected product from the cart page
+##### 2. Each product has an update, and details button. When clicking the details button user sees detailed information on the single product
+##### 3. When the user clicks the update button user is redirected update page, The user can update this product using the form.
+##### 4. On the details page, there is detailed information about a product and also have add to cart button, when clicking the add to cart button, the user can select the product in the cart page. Users can select multiple products.
+##### 5. Users also delete the selected product from the cart page
 #### TripLink Vehicle Service Project: https://vehicle-service-d6969.web.app/
 #### Online-brand-shop:  https://technology-auth.web.app/
 
