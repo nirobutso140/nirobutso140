@@ -14,7 +14,8 @@ Skills: HTML, CSS, Bootstrap, Tailwind, Daisyui, Javascript, React, Express, Mon
 - 🔭 I’m currently working on Newsportal-web-app, offline-service-web-app 
 - 🌱 I’m currently learning React, Express, MongoDB 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development
+  
 
 
 
