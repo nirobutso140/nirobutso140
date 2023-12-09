@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://aglowiditsolutions.com/wp-content/uploads/2018/09/ReactJS-Development-Services.png) <br/>
+![I am GitHub Readme Generator's creator](https://ibb.co/1MTYD3j) <br/>
 I'm Utso Roy
 ### Frontend Developer
 
