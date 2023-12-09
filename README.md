@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://ibb.co/1MTYD3j) <br/>
+![I am GitHub Readme Generator's creator](https://thumbs.dreamstime.com/b/react-js-inscription-against-laptop-code-background-learn-react-programming-language-computer-courses-training-react-js-202008646.jpg) <br/>
 I'm Utso Roy
 ### Frontend Developer
 
