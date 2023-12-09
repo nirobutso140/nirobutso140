@@ -7,10 +7,10 @@ I am a web developer. I have an understanding of javascript and react concepts, 
 
 #### Skills: HTML, CSS, Bootstrap, Tailwind, Daisyui, Javascript, React, Express, MongoDB
 
-### My last 3 Projects link & description
+### My last 3 Projects link
 #### Newsportal-web-app: https://recreatenewsportal.web.app/
 #### TripLink Vehicle Service Project: https://vehicle-service-d6969.web.app/
-#### online-brand-shop:  https://technology-auth.web.app/
+#### Online-brand-shop:  https://technology-auth.web.app/
 
 
 <h3 align="left">Languages and Tools:</h3>
