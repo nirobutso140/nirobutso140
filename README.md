@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAF2eRSpzNY/GgcDu9Fmfa7OrGcrWAd2Og/edit?utm_content=DAF2eRSpzNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br/>
+![I am GitHub Readme Generator's creator](https://aglowiditsolutions.com/wp-content/uploads/2018/09/ReactJS-Development-Services.png) <br/>
 I'm Utso Roy
 #### Frontend Developer
 
