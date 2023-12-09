@@ -1,4 +1,4 @@
-![Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) <br/>
 I'm Utso Roy
 #### Frontend Developer
 
