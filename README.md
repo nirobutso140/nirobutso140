@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://railsware.com/blog/wp-content/uploads/2019/07/Why-we-use-ReactJS-for-our-projects-Illustration.jpg) <br/>
 #### I'm Utso Roy
-### Frontend Web Developer
+## Frontend Web Developer
 
 
 I am a web developer. I have an understanding of javascript and react concepts, and a basic idea of express, MongoDB. I have several projects with React and 3 projects with MERN. I am interested in working with the React. 
