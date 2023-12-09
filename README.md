@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://latitudetechnolabs.com/wp-content/uploads/2022/05/ReactJS-logo.png) <br/>
+![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAF2eRSpzNY/GgcDu9Fmfa7OrGcrWAd2Og/edit?utm_content=DAF2eRSpzNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br/>
 I'm Utso Roy
 #### Frontend Developer
 
