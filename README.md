@@ -1,5 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://railsware.com/blog/wp-content/uploads/2019/07/Why-we-use-ReactJS-for-our-projects-Illustration.jpg) <br/>
-I'm Utso Roy
+#### I'm Utso Roy
 ### Frontend Developer
 
 
@@ -14,8 +14,7 @@ I am a web developer. I have an understanding of javascript and react concepts, 
 There are some specific brand product 
 ##### 2. Each product has an update, and details button. When clicking the details button user sees detailed information on the single product
 ##### 3. When the user clicks the update button user is redirected update page, The user can update this product using the form.
-##### 4. On the details page, there is detailed information about a product and also have add to cart button, when clicking the add to cart button, the user can select the product in the 
-##### cart page. Users can select multiple products.
+##### 4. On the details page, there is detailed information about a product and also have add to cart button, when clicking the add to cart button, the user can select the product in the  cart page. Users can select multiple products.
 ##### 5. Users also delete the selected product from the cart page
 ### TripLink Vehicle Service Project: https://vehicle-service-d6969.web.app/
 
@@ -30,7 +29,7 @@ There are some specific brand product
 ##### 1. In-Home Page there are 6 Technology Brands When Clicking any single brand the user has redirected to another page that has a brand-related product
 ##### 2. There are some specific brand products, each product has an update and a details button. When clicking the details button user sees detailed information about the single product
 ##### 3. When the user clicks the update button user is redirected update page, The user can update this product using the form.
-##### 4. On the details page, there is detailed information about a product and also have add to cart button, when clicking the add to cart button, the user can select the product in the ##### cart page. Users can select multiple products.
+##### 4. On the details page, there is detailed information about a product and also have add to cart button, when clicking the add to cart button, the user can select the product in the cart page. Users can select multiple products.
 ##### 5. Users also delete the selected product from the cart page
 
 
