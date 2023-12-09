@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://thumbs.dreamstime.com/b/react-js-inscription-against-laptop-code-background-learn-react-programming-language-computer-courses-training-react-js-202008646.jpg) <br/>
+![I am GitHub Readme Generator's creator](https://railsware.com/blog/wp-content/uploads/2019/07/Why-we-use-ReactJS-for-our-projects-Illustration.jpg) <br/>
 I'm Utso Roy
 ### Frontend Developer
 
