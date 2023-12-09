@@ -17,7 +17,20 @@ There are some specific brand product
 ##### 4. On the details page, there is detailed information about a product and also have add to cart button, when clicking the add to cart button, the user can select the product in the cart page. Users can select multiple products.
 ##### 5. Users also delete the selected product from the cart page
 #### TripLink Vehicle Service Project: https://vehicle-service-d6969.web.app/
+
+##### 1. Different types of vehicles can be rented through this website.
+##### 2. The website will have various types of vehicle services, users can rent any type of vehicle.
+##### 3. The user can access the services if he/she is logged in.
+##### 4. Users can add services according to their choice.
+##### 5. Users can delete and edit their added services.
+
 #### Online-brand-shop:  https://technology-auth.web.app/
+
+##### 1. In-Home Page there are 6 Technology Brands When Clicking any single brand the user has redirected to another page that has a brand-related product
+##### 2. There are some specific brand products, each product has an update and a details button. When clicking the details button user sees detailed information about the single product
+##### 3. When the user clicks the update button user is redirected update page, The user can update this product using the form.
+##### 4. On the details page, there is detailed information about a product and also have add to cart button, when clicking the add to cart button, the user can select the product in the cart page. Users can select multiple products.
+##### 5. User also delete the selected product from the cart page
 
 
 <h3 align="left">Languages and Tools:</h3>
