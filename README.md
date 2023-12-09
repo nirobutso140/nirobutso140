@@ -1,4 +1,4 @@
-![Frontend Developer][(https://www.canva.com/design/DAF2eUlFz7g/OM8nlCAN6avzbEifhwbNVQ/edit?utm_content=DAF2eUlFz7g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://latitudetechnolabs.com/wp-content/uploads/2022/05/ReactJS-logo.png)) <br/>
+![I am GitHub Readme Generator's creator](https://latitudetechnolabs.com/wp-content/uploads/2022/05/ReactJS-logo.png) <br/>
 I'm Utso Roy
 #### Frontend Developer
 
