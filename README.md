@@ -9,6 +9,7 @@ I am a web developer. I have an understanding of javascript and react concepts, 
 
 ### My last 3 Projects link: these projects are created by MERN:
 #### Newsportal-web-app: https://recreatenewsportal.web.app/
+
 ###### In-Home Page there are 6 Technology Brands When Clicking any single brand the user is redirected to another page that has a brand-related product
 There are some specific brand product 
 ##### Each product has an update, and details button. When clicking the details button user sees detailed information on the single product
