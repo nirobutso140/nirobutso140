@@ -29,7 +29,6 @@ Skills: HTML, CSS, Bootstrap, Tailwind, Daisyui, Javascript, React, Express, Mon
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nirobutso140/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/nirobutso140)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nirobutso140)  
 
