@@ -3,7 +3,7 @@
 ## Frontend Web Developer
 
 
-I am a web developer. I have an understanding of javascript and react concepts, and a basic idea of express, MongoDB. I have several projects with React and 3 projects with MERN. I am interested in working with the React. 
+I am a web developer. I have an understanding of javascript and react concepts, and a basic idea of express, MongoDB. I have several projects with React and 3 projects with MERN. Currently, I want to work with React Js. But interested in working with the MERN stack in the future.
 
 #### Skills: HTML, CSS, Bootstrap, Tailwind, Daisyui, Javascript, React, Express, MongoDB
 
